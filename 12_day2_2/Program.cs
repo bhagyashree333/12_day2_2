@@ -119,7 +119,7 @@ Console.WriteLine("Hello, World!");
 //}
 
 //--------------------------------------------------------------------------------------------------------
-//multo arr
+//multidiamentional array
 //Console.WriteLine("enter val row");
 //int[,] arr = new int[3, 3];
 //for (int i = 0; i < 3; i++)

@@ -20,7 +20,10 @@ Console.WriteLine("Hello, World!");
 //    Console.WriteLine(myarr2[i]);
 //}
 
-//accept vals from user store in array and display them
+
+
+
+//Accept vals from user store in array and display them
 
 //int[] myarr3 = new int[5];
 //Console.WriteLine("enter no to add in array");
@@ -147,3 +150,5 @@ for (int r=0;r<=6;r++)
     }
     Console.WriteLine();
 }
+
+
