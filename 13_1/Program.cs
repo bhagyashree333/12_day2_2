@@ -1,24 +1,42 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
 
+<<<<<<< HEAD
 ////*                          *
 ////        *             *
 ////                *
 ////        *              *
 ////*                           *
+=======
+//*                                *
+//        *                  *
+//                *
+//        *                   *
+//*                                *
+>>>>>>> c04a148b50864afbdd70e0e6d81ba7c4358409b0
 
 
 //int row = 5;
 //for (int i = 0; i < row; i++)
 //{
+<<<<<<< HEAD
 //    for (int j = 0; j < row; j++) 
 //    {
 //        if (i == j || ((i + j) == row - 1))
+=======
+//    for (int j = 0; j < row; j++)+
+//    {
+//        if (i == j || ((i + j) == row-1))
+>>>>>>> c04a148b50864afbdd70e0e6d81ba7c4358409b0
 //        {
 //            Console.Write("*\t");
 //        }
 //        else
+<<<<<<< HEAD
 //        {
+=======
+//        { 
+>>>>>>> c04a148b50864afbdd70e0e6d81ba7c4358409b0
 //            Console.Write("\t");
 //        }
 //    }
@@ -63,7 +81,11 @@ Console.WriteLine("Hello, World!");
 //        {
 //            largeno = arr[i, j];
 //        }
+<<<<<<< HEAD
 
+=======
+       
+>>>>>>> c04a148b50864afbdd70e0e6d81ba7c4358409b0
 //    }
 //}
 

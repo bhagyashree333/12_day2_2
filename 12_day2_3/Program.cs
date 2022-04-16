@@ -153,6 +153,23 @@ Console.WriteLine("Hello, World!");
 
 for(int i=0;i<6;i++)
 {
+<<<<<<< HEAD
     Console.WriteLine(i);
 }
 
+=======
+    for(int c=0;c<=4;c++)
+    {
+        if((r==0 ||r==3 ||c==0)|| (c == 4) &&  (r < 3))
+        {
+            Console.Write("*\t");
+        }
+        else
+        Console.Write("\t");
+
+    }
+    Console.WriteLine();
+}
+
+
+>>>>>>> c04a148b50864afbdd70e0e6d81ba7c4358409b0

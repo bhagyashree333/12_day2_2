@@ -43,7 +43,11 @@ class Cow: Animal
     {
         Console.WriteLine("something");
 
+<<<<<<< HEAD
     }
+=======
+        }
+>>>>>>> c04a148b50864afbdd70e0e6d81ba7c4358409b0
     public void eat()
     {
         Console.WriteLine("cow eating");

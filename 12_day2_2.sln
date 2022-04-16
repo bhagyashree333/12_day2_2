@@ -23,7 +23,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14_abstraction", "14_abstra
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14_interface", "14_interface\14_interface.csproj", "{19DC8444-8242-46FB-A78D-492B090139CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16_studlist", "16_studlist\16_studlist.csproj", "{268189FD-6B83-47CA-B5F9-12B3213017B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "16_studlist", "16_studlist\16_studlist.csproj", "{268189FD-6B83-47CA-B5F9-12B3213017B4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
